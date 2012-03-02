@@ -1058,6 +1058,8 @@ MANUAL_CONTROL
     Control manual
 COMPUTER_SPEED_CONTROL
     Navegación asistida
+COMPUTER_HEADING_CONTROL
+    Control direccional asistido
 AUTOPILOT_ON
     Piloto automático ON
 SHIP_VELOCITY_BY_REFERENCE_OBJECT
@@ -1090,6 +1092,10 @@ DOCKED
     Atracado
 HYPERSPACE
     Hiperespacio
+HEADING_LOCK_FORWARD
+    Bloqueo direccional (de proa)
+HEADING_LOCK_BACKWARD
+    Bloqueo direccional (de popa) 
 SET_SPEED_KM_S
     Velocidad: %speed{f.2} km/s
 SET_SPEED_M_S
